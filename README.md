@@ -1,2 +1,2 @@
 # MemoryGame
-Memory game creation with Growdev`s students!
+Memory game creation!
